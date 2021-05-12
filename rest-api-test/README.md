@@ -8,15 +8,6 @@ CityBikes API BDD test project
 * Serenity BDD Reports
 * Rest Assured
 
-## Test Scenarios Considered
-
-There are 2 scenarios designed as below:
-1. Feature file name- apistatus.feature
-   description - To check the Api Status of the Endpoint URL
-
-2. Feature file name - validate_city.feature
-   description - To validate the City Frankfurt belongs to the Country IE or Germany and retrieve the Longitude and Latitude coordinates
-
 ## How to execute the project
 1. Open the Project in Eclipse or IntelliJ IDE
 2. Execute the project from the command line, navigate to the path where the Pom.xml is situated. Then execute the command below.
